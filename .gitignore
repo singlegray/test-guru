@@ -39,3 +39,11 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+.idea/dataSources.local.xml
+.idea/dataSources.local.xml
+.idea/dataSources.xml
+.idea/dataSources/2c002f08-b6eb-4738-8e67-2e24954d15f1.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/dataSources.local.xml
+.idea/vcs.xml
